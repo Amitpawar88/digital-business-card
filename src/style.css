@@ -1,17 +1,47 @@
 * {
     box-sizing: border-box;
+    background-color: black;
 }
 
-.btn {
-    background-color: DodgerBlue; /* Blue background */
-    border: none; /* Remove borders */
-    color: white; /* White text */
-    padding: 12px 16px; /* Some padding */
-    font-size: 16px; /* Set a font size */
-    cursor: pointer; /* Mouse pointer on hover */
-  }
-  
-  /* Darker background on mouse-over */
-  .btn:hover {
-    background-color: RoyalBlue;
-  }
+.amitprofile {
+  position: absolute;
+  width: 317px;
+  height: 317px;
+  left: 116px;
+  top: 44px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.Amit-Pawar {
+  position: absolute;
+  width: 178.06px;
+  height: 25.81px;
+  left: 186px;
+  top: 382px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.web-developer {
+  position: absolute;
+  width: 178.06px;
+  height: 14.19px;
+  left: 186px;
+  top: 414px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+
+  color: #F3BF99;
+}
